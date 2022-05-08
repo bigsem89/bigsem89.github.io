@@ -97,8 +97,8 @@ title: "снт Ягодка" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Описание" # Site description and default description, also used in jekyll-seo-tag
 url: "https://bigsem89.github.io" # Site url, also used in jekyll-seo-tag
-baseurl: "/alembic/"
-repo: "alembic"
+baseurl: "/"
+repo: ""
 email: "bigsem89@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
