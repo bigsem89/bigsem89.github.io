@@ -158,4 +158,4 @@ fonts:
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
