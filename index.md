@@ -1,9 +1,10 @@
 ---
 title: О нас
 feature_text: |
-  ## СНТ ягодка
+  ## СНТ Ягодка
   Наро-фоминский район
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://picsum.photos/2560/600?image=432" 
+<!-- "https://picsum.photos/1300/400?image=989" -->
 excerpt: ""
 ---
 
